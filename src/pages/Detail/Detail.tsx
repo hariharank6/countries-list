@@ -109,6 +109,7 @@ const Detail = () => {
             startIcon={<KeyboardBackspaceIcon />}>
             Back
           </Button>
+          {/* To easily navigate to home when the user clicks the border countries multiple times */}
           <Button
             variant="contained"
             color="primary"
