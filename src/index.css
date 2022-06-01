@@ -1,0 +1,13 @@
+
+@font-face {
+  font-family: 'NunitoSansLight';
+  src: local(''), url('./fonts/NunitoSans-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'NunitoSansMedium';
+  src: local(''), url('./fonts/NunitoSans-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'NunitoSansBold';
+  src: local(''), url('./fonts/NunitoSans-ExtraBold.ttf') format('truetype');
+}
